@@ -1,3 +1,4 @@
+
 # Student Attendance & Performance Management API
 
 A robust backend system to manage students, teachers, subjects, attendance records, and academic performance data.
@@ -78,3 +79,4 @@ A robust backend system to manage students, teachers, subjects, attendance recor
 
 ### Upload
 - `POST /api/upload` - Upload an image
+
